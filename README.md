@@ -13,6 +13,8 @@ Flight ready the quad weighs in at a biscuit over 200g and is very responsive in
 ### Printing the parts
 Within OpenSCAD you can modify the source code and comment/uncomment the particular parts you wish to print, render them and then export as STL. A pre-exported version of each part is available in the [STL subdirectory](stls/).
 
+The frame was printed on a Makerbot Replicator 2X with most of the parts having the default "Standard" resolution settings (0.2mm layer height, 2 shells, 15% infill) with the exception of the motor mounts for which I increased the setting to 75% infill.
+
 ### Parts list
 I don't know the origin of all the parts I used as some of them have been in my bits box for a while, chances are they probably came from [HobbyKing](http://www.hobbyking.com) for some project or other.
 
