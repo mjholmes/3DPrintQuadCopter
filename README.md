@@ -11,7 +11,7 @@ The top plate design has mounting hole for the flight controller so it can run i
 Flight ready the quad weighs in at a biscuit over 200g and is very responsive in flight. I suspect it has enough power in reserve to carry a GoPro but probably not for very long. It holds it own well outdoors even in breezy conditions and can be flown indoors as well.
 
 ### Printing the parts
-Within OpenSCAD you can modify the source code and comment/uncomment the particular parts you wish to print, render them and then export as STL. A pre-exported version of each part is available in the [STL subdirectory](stl/).
+Within OpenSCAD you can modify the source code and comment/uncomment the particular parts you wish to print, render them and then export as STL. A pre-exported version of each part is available in the [STL subdirectory](stls/).
 
 ### Parts list
 I don't know the origin of all the parts I used as some of them have been in my bits box for a while, chances are they probably came from [HobbyKing](http://www.hobbyking.com) for some project or other.
@@ -20,7 +20,7 @@ I don't know the origin of all the parts I used as some of them have been in my 
 |------|---------|------|----------|
 | Frame | 3D printed |~40g ABS and a few hours | Me |
 | Anti Vibration FC mount | 3D printed. Probably overkill if the motors/props are well balanced | 8g ABS | [ GuyMcCaldin on Thingiverse](http://www.thingiverse.com/thing:164011) |
-| Motors | (Turnigy 1811 - 2900kV)[http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36792] | £8.3/each | Hobbyking |
+| Motors | [Turnigy 1811 - 2900kV](http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=36792) | £8.3/each | Hobbyking |
 | Speed controllers | 10A ESCs, I had some [Robotbirds own brand models](http://robotbirds.com/catalog/product_info.php?products_id=1734). I'd recommend getting some cheaper [HK](http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=29550) / [Turnigy](http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=28401) units instead.  | £9/each (£4.6/unit from HK) | Hobbyking |
 | Props | Some 5" CW/CCW props I had. [These props from HK](http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=45771) *should* be fine. | ~£2.5/set  | HobbyKing? |
 | Flight Controller | A KK Mini LCD. Standard 36mm form form factor | ~£11 | HobyKing |
