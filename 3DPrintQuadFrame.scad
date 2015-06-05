@@ -1,6 +1,6 @@
 // 3D printable mini Quadcopter frame
-// Licensed under a Creative Commons Attribution 3.0 License
-// Matt Holmes - May 2015
+// Licensed under a Creative Commons Attribution License
+// Matt Holmes, matt@mjholmes.org - May 2015
 
 $fn=100;
 
