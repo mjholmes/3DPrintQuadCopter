@@ -33,13 +33,13 @@ I don't know the origin of all the parts I used as some of them have been in my 
 ### Images
 The frame showing all parts together, rendered and in real life
 ![Rendered frame](/_content/QuadModelRender.png)
-![Actual frame](/_content/QuadFrame.jpg)
+![Actual frame](/_content/QuadFrame.JPG)
 
 The first build of the quad with all components attached. I need to improve the cable routing!
-![Fully built model](/_content/QuadBuilt.jpg)
+![Fully built model](/_content/QuadBuilt.JPG)
 
 For an idea of scale, the larger quad is based on a Turnigy Talon V2 and the micro quad is a Hubsan X4.
-![Quadcopter family](/_content/QuadFamily.jpg)
+![Quadcopter family](/_content/QuadFamily.JPG)
 
 ### To do
 I hope to improve on this design and as time permits i'll add more features. The wishlist currently contains:
